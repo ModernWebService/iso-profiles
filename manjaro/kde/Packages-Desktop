@@ -142,6 +142,8 @@ grub-theme-manjaro
 breeze-gtk
 plymouth
 plymouth-theme-manjaro
+sweet-kde
+
 
 ## KDE Applications
 ark
@@ -211,6 +213,12 @@ poppler-data  # encoding data to display PDF documents containing CJK characters
 >extra elisa
 dmidecode # for inxi -m output
 firefox
+brave-browser
+git
+1password
+sublime-text
+vscodium
+bismuth
 htop
 inxi
 #>extra krita
@@ -231,11 +239,7 @@ systemd-kcm
 #>extra thunderbird
 >extra vlc
 yakuake
->extra sublime-text
->extra vscode
->extra 1password
 >extra yay
->basic neofetch
 
 ## Documentation
 #manjaro-documentation-en
