@@ -231,6 +231,11 @@ systemd-kcm
 #>extra thunderbird
 >extra vlc
 yakuake
+>extra sublime-text
+>extra vscode
+>extra 1password
+>extra yay
+>basic neofetch
 
 ## Documentation
 #manjaro-documentation-en
